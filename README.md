@@ -1,3 +1,5 @@
+![Banner de perfil](portadagithub.png)
+
 <h1 align="center">Hi, I'm Nathalie 👋</h1>
 <h3 align="center">Mechatronics Technologist · Systems Engineering Student · Hardware Enthusiast</h3>
 
