@@ -1,4 +1,4 @@
-<img src="portadagithub.png" alt="Banner de perfil" width="100%">
+<img src="./images/portadagithub.png" alt="Banner de perfil" width="100%">
 
 <h1 align="center">Hi, I'm Nathalie 👋</h1>
 <h3 align="center">Mechatronics Technologist · Systems Engineering Student · Hardware Enthusiast</h3>
